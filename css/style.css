@@ -26,6 +26,15 @@ header > div > img {
 .wrapper img {
     margin: 40px auto 40px auto;
     box-shadow: 0px 0px 10px 0px rgba(50, 50, 50, 0.75);
+    width: 300px;
+    height: 200px;
+}
+
+.image{
+    width: 300px;
+    height: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 footer {
